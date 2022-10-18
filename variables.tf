@@ -7,7 +7,7 @@
 
 variable "prefix" {
   description = "This prefix will be included in the name of most resources."
-  default     = "sam-hashicat-tfc-demo-test1"
+  default     = "sam-hashicat-tfc"
 }
 
 variable "location" {
